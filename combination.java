@@ -7,9 +7,7 @@ public class Main
         int n, r, part2, nn = 1, rr = 1, nr = 1,total;
         Scanner inp = new Scanner(System.in);
 
-        /*
-            Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
-         */
+       
 
         System.out.printf("n girin :");
         n = inp.nextInt();
