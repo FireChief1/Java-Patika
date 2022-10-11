@@ -4,10 +4,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        /*
-           1-100 arası asal sayılar
-
-         */
+       
         Scanner inp = new Scanner(System.in);
         int number, elementCounter = 3, f0 = 0, f1 = 1, sum0, sum1, sum = 0;
 
